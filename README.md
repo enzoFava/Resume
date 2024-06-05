@@ -1,9 +1,3 @@
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
-<br/>
-
 ## Built With
 
 This project was built using these technologies.
@@ -19,7 +13,7 @@ This project was built using these technologies.
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and Css**
 
 **📱 Fully Responsive**
 
